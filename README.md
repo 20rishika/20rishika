@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishika.
-- 👀 I’m interested in front end and IOT
-- 🌱 I’m currently learning css
+- 👀 I’m interested in Python Libraries and IOT
+- 🌱 I’m currently learning Audrino Atmeg3
 - 📫 mail me rishikasarkar20@gmail.com
 
 <!---
